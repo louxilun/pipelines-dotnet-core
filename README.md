@@ -4,7 +4,7 @@ For information on how to use this repository, see docs for [.NET Core](https://
 
 | Example | Build status |
 |---------|--------------|
-| Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
+| Build | [![Build Status](https://louxilun.visualstudio.com/dotnet-core/_apis/build/status/dotnet-core-ASP.NET%20Core-CI?branchName=master)](https://louxilun.visualstudio.com/dotnet-core/_build/latest?definitionId=1&branchName=master)
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=2) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=3) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=4) |
